@@ -12,6 +12,6 @@ The following scripts are contained in this project:
    11. 10-back - changes the working directory to the previous one
    12. 11-lists - lists the contents of the current directory, its parent and /boot in long format in this specific order
    13. 12-file_type - Displays the type of file 'iamafile' in /tmp/
-   
+   14. 13-symbolic_link - creates a soft link between __ls__ and /bin/ls
    
     
