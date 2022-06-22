@@ -7,6 +7,7 @@ The following scripts are contained in this project:
    6. 5-listfilesdigitonly - Will list current directory contents in long format with user and group IDs in a numeric form
    7. 6-firstdirectory - Creates a directory my_first_directory in /tmp/
    8. 7-movethatfile - moves the file 'betty' from /tmp to /tmp/my_first_directory
+   9. 8-firstdelete - This deletes file 'betty' in /tmp/my_first_directory
    
    
    
