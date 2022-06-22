@@ -5,6 +5,7 @@ The following scripts are contained in this project:
    4. 3-listfiles - Will show your current directory contents in long format
    5. 4-listmorefiles - Will list even the hidden files in the current directory
    6. 5-listfilesdigitonly - Will list current directory contents in long format with user and group IDs in a numeric form
+   7. 6-firstdirectory - Creates a directory my_first_directory in /tmp/
    
    
     
