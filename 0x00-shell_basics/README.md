@@ -10,7 +10,7 @@ The following scripts are contained in this project:
    9. 8-firstdelete - This deletes file 'betty' in /tmp/my_first_directory
    10. 9-firstdirdeletion - To delete the directory /tmp/my_first_directory
    11. 10-back - changes the working directory to the previous one
-   
+   12. 11-lists - lists the contents of the current directory, its parent and /boot in long format in this specific order
    
    
    
