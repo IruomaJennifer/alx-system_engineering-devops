@@ -13,5 +13,6 @@ The following scripts are contained in this project:
    12. 11-lists - lists the contents of the current directory, its parent and /boot in long format in this specific order
    13. 12-file_type - Displays the type of file 'iamafile' in /tmp/
    14. 13-symbolic_link - creates a soft link between __ls__ and /bin/ls
-   15. 14-copy_html - copies all HTML files in the current directory that are newer versions of those in the parent of the working directory or do not exist in the parent of the working directory 
+   15. 14-copy_html - copies all HTML files in the current directory that are newer versions of those in the parent of the working directory or do not exist in the parent of the working directory
+   16. 100-lets_move - Will move all files beginning with an uppercase letter to the directory /tmp/u
     
