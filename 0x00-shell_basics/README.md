@@ -9,6 +9,7 @@ The following scripts are contained in this project:
    8. 7-movethatfile - moves the file 'betty' from /tmp to /tmp/my_first_directory
    9. 8-firstdelete - This deletes file 'betty' in /tmp/my_first_directory
    10. 9-firstdirdeletion - To delete the directory /tmp/my_first_directory
+   11. 10-back - changes the working directory to the previous one
    
    
    
